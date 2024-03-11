@@ -1,2 +1,3 @@
-# Gen_AI
-This repository contains genAI codes
+#microGPT
+This repository contains code for microGPT
+stay tuned
